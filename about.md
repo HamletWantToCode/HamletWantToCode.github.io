@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a PhD candidate at Institute of Physics in Beijing, interested in differentiable programming and probabilistic modelling
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[hongbinrenscu@outlook.com](mailto:hongbinrenscu@outlook.com)
